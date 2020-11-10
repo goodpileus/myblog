@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Fool's Rest"
+---
+
 # Fool's Rest
 
 Aidan Quinlan
