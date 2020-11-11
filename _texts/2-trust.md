@@ -1,0 +1,43 @@
+---
+layout: narrative
+title:  "trust"
+---
+
+# trust
+
+> Now, to trust the story, what does that mean? To me, it means being willing not to have full control over the story as you write it.[^1]
+
+In order to begin we should first establish some trust. This is an unfortunate task—unfortunate because anything I can offer as a gesture of clarity or transparency will likely destroy this thing. So we must approach carefully.[^2]
+
+I’ll begin with an admission.
+
+I have called this text a guide, but, if you knew me, you would know that this is not really a guide; it cannot be a guide; it will not be a guide. Though this was not done without reason, I am sorry for the deception.  
+
+From the genre of guide, it borrows the outlines and silhouettes and lines between things and spaces and ideas. It lingers on the shadows of its subject(s); it is attentive to the periphery of its world; but it cannot take you there. There is no there. It lacks the authority of the guide; it lacks the lucidity, the efficiency, the false totality of the guide; it lacks the confidence.
+
+I do not know where this guide is going. I cannot assume to know. The great shame[^3] of this guide is that I am somehow always at the center of it. What is a guide built around shame? What is a guide that interfaces with chaos instead of the rational? What is a guide formed from the twisting mists of a human heart?
+
+The guide simultaneously faces the user and the interior of the screen. Like Janus, the guide exists at the doorway, presiding over who can see what lies beyond. Like Janus, it contradicts itself: despairing and rejoicing, seeing nothing and everything, destroying itself and reassembling itself. Unlike Janus, the guide does not want this control.[^4]
+
+The guide embodies its own anxieties. This makes sense, as its reason to exist was born on the one-way highway of technological determinism and cradled in the eclipse of nihilism. It is from the gravity of these contexts that the guide is trying to escape[^5] or is (more likely) propelled by, into its own certain and empty end. This is the only language the guide has seemingly ever known.
+
+​The guide is not convinced of itself.
+
+The guide is sapped of its mana—but this is the natural state of this guide. If this condition is not met, the guide would cease to exist. It functions only in this exhausted state.
+
+The guide is an act of forgetting. It refrains into itself. The plots and pages have been tended, the instruments have been tuned, the dust has been arranged.
+
+The guide is more like a chamber than a tool; more like a vehicle moving between things (cities or stars); more like a cry; more like a memory and more like a simulation. A simulation of lying on the ground with nothing to do.
+
+What is contained here is probably nothing more than a collection of echoes.[^6]
+
+I do not want this to be an unwelcoming place.
+
+----
+
+[^1]: Ursula K. Le Guin, *A Matter of Trust*
+[^2]: “To be singleminded is to be unmindful. Mindfulness is keeping many different things in mind and observing their relations and proportions. To conquer is to be careless. Carefulness is holding oneself and one’s acts in appropriate relation and proportion to the many other beings and intentions. To take is to be joyless. Joyfulness is accepting the given, which cannot be earned by mindfulness nor deserved by carefulness.” —Ursula K. Le Guin, *Always Coming Home*
+[^3]: <img src="/Users/aidan/Desktop/practice/writing/notebook/_img/solaris1b.png" alt="solaris1b" style="zoom:25%;" /> *Solaris*, dir. Andrei Tarkovsky
+[^4]: “Every door has two fronts, this way and that, whereof one faces the people and the other the house-god; and just as your human porter, seated at the threshold of the house-door, sees who goes out and in, so I, the porter of the heavenly court, behold at once both East and West ... And lest I should lose time by twisting my neck, I am free to look both ways without budging.”  —Janus speaking in Ovid’s *Fasti*
+[^5]: “The whole point about escape is that it’s an activity, not an achievement.” —Fred Moten, *The Black Outdoors*
+[^6]: “Through the brilliance of an image, the distant past resounds with echoes, and it is hard to know at what depth these echoes will reverberate and die away.”  —Gaston Bachelard, *The* *Poetics of Space*

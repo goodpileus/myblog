@@ -10,9 +10,9 @@ sitemap: false
 */
 
 /* Fonts */
-$main-font: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-$heading-font: sans-serif;
-$regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+$main-font: 'Fira Code', monospace;
+$heading-font: 'Xanh Mono', monospace;
+$regular-font-size: 1.1em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 
 /*
@@ -21,9 +21,10 @@ $regular-font-size: 1.25em; /* 20px / 16px = 1.25em; support text resizing in al
   Make sure to leave color-scheme in `_config.yml` file empty for granular control
 */
 
-$text-color: #454545;
-$heading-color: #404040;
-$link-color: #841212;
+$text-color: rgba(0, 0, 0, 0.6);
+$heading-color: rgba(0, 0, 0, 0.6);
+$border-color: rgba(0, 0, 0, 0.6);
+$link-color: rgba(0, 0, 0, 0.6);
 
 @import "ed";
 @import "syntax";

@@ -27,7 +27,7 @@ In order to begin we should first establish some trust. This is an unfortunate t
 
 
 
-​	I’ll begin with an admission.
+I’ll begin with an admission.
 
 
 

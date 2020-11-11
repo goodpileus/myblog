@@ -18,15 +18,6 @@
     {% endif %}
   </title>
 
-  <!-- Dublin Core metadata for Zotero -->
-  <meta property="dc:title" content="{{ page.title }}" />
-  <meta property="dc:creator" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author.name }}{% endif %}" />
-  <meta property="dc:identifier" content="{{ resource_url }}" />
-  {% if page.editor %}<meta property="dc:contributor" content="{{ page.editor }}" />{% endif %}
-  {% if page.publication-date %}<meta property="dc:date" content="{{ page.publication-date }}" />{% endif %}
-  {% if page.rights %}<meta property="dc:rights" content="{{ page.rights }}" />{% endif %}
-  <meta property="dc:source" content="{% if page.source %}{{ page.source }}{% else %}{{ site.title }}{% endif %}" />
-
   <!-- Open Graph metadata -->
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:url" content="{{ resource_url }}" />
@@ -53,4 +44,7 @@
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ directory_url }}/atom.xml" />
+
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&family=Xanh+Mono:ital@0;1&display=swap" rel="stylesheet">
 </head>

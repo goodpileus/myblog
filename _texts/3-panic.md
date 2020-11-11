@@ -1,0 +1,16 @@
+---
+layout: narrative
+title:  "panic"
+---
+
+# panic
+
+I tremble with un-academic panic.[^7] It is the same cold panic that has been trembled collectively since our earliest moments. The fantasy[^8] appears: very hot air (but still, the panic is cold) ; a river within a wilderness and a community of small figures, carried along the river, stranded on vessels of certainty: appendages of glass and transmission, boxes of words and mythologies, technologies of measurement and hope. The community watches the sunset. They watch with growing worry. Eventually, they set to work on building a singular vessel of certainty—a Great Net to catch the sun before it passes below the horizon. Faster and faster… The worry must be put to rest, once and for all.
+
+> Evil arises in the honored belief that history can be tidied up, brought to a sensible conclusion. It is evil to act as though the past is bringing us to a specifiable end.[^9]
+
+------
+
+[^7]: “Especially today is it necessary to be academic, the apology for academic precision—which is always essential in realistic ages—being that this has no relation to facts. To essay is to try but not to attempt. It is to establish trial. The essay is the most human literary form in that it is always sure, it remains from first to last fixed.” —William Carlos Williams, *An Essay On Virginia*
+[^8]: “So the word fantasy remains ambiguous, standing between the false, the foolish, the delusory, the shallows of the mind, and the mind’s deep connection with the real. On this threshold it sometimes faces one way, masked and costumed, frivolous, and escapist; then it turns, and we glimpse as it turns the face of an angel, bright truthful messenger, arisen Urizen.”  —	Ursula K. Le Guin, *The Wave in the Mind*
+[^9]: James P. Carse, *Finite and Infinite Games*
