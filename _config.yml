@@ -7,7 +7,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 remote_theme: daviddarnes/garth
 plugins:
   - jekyll-feed
