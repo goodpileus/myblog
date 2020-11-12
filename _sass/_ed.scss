@@ -41,8 +41,9 @@ html {
   font-size: 1em; /* 16px; specify in ems to support text resizing in all browsers */
   line-height: 1.5;
   background: #a89794;
-  -webkit-transition: background .2s ease-in-out;
-          transition: background .2s ease-in-out;
+  overflow-y: scroll;
+  -webkit-transition: background .2s;
+          transition: background .2s;
 }
 
 @media (min-width: 38em) {
@@ -53,6 +54,7 @@ html {
 
 body {
   color: $text-color;
+  font-weight: lighter;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -91,7 +93,7 @@ body {
 
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 45rem;
   }
 }
 
@@ -291,8 +293,8 @@ tbody tr:nth-child(odd) th {
   overflow-y: auto;
   font-size: 1rem;/* 15px*/
   border-right: 1px solid $border-color;
-  -webkit-transition: all .2s ease-in-out;
-          transition: all .2s ease-in-out;
+  -webkit-transition: all .2s;
+          transition: all .2s;
 }
 
 @media (min-width: 30em) {
@@ -414,8 +416,8 @@ a.sidebar-nav-item:focus {
 
 .wrap,
 .sidebar-toggle {
-  -webkit-transition: -webkit-transform .2s ease-in-out;
-          transition: transform .2s ease-in-out;
+  -webkit-transition: -webkit-transform .2s;
+          transition: transform .2s;
 }
 
 #sidebar-checkbox:checked + .sidebar {

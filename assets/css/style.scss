@@ -12,7 +12,7 @@ sitemap: false
 /* Fonts */
 $main-font: 'Fira Code', monospace;
 $heading-font: 'Xanh Mono', monospace;
-$regular-font-size: 1.1em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
+$regular-font-size: 1em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
 
 
 /*
@@ -23,7 +23,7 @@ $regular-font-size: 1.1em; /* 20px / 16px = 1.25em; support text resizing in all
 
 $text-color: rgba(0, 0, 0, 0.6);
 $heading-color: rgba(0, 0, 0, 0.6);
-$border-color: rgba(0, 0, 0, 0.6);
+$border-color: rgba(0, 0, 0, 0.2);
 $link-color: rgba(0, 0, 0, 0.6);
 
 @import "ed";
