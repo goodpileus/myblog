@@ -291,7 +291,7 @@ tbody tr:nth-child(odd) th {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-size: 1rem;/* 15px*/
+  font-size: 1rem;
   border-right: 1px solid $border-color;
   -webkit-transition: all .2s;
           transition: all .2s;
@@ -299,7 +299,7 @@ tbody tr:nth-child(odd) th {
 
 @media (min-width: 30em) {
   .sidebar {
-    font-size: .75rem;/* 14px */
+    font-size: 1rem;
   }
 }
 
@@ -309,7 +309,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .sidebar a {
-  font-weight: normal;
+  font-weight: lighter;
   // color: #fff;
 }
 

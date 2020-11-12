@@ -2,24 +2,10 @@
 sitemap: false
 ---
 
-
-/*
-  Common Variables
-
-  Feel free to change!
-*/
-
 /* Fonts */
 $main-font: 'Fira Code', monospace;
 $heading-font: 'Xanh Mono', monospace;
-$regular-font-size: 1em; /* 20px / 16px = 1.25em; support text resizing in all browsers */
-
-
-/*
-  Color
-
-  Make sure to leave color-scheme in `_config.yml` file empty for granular control
-*/
+$regular-font-size: 1em;
 
 $text-color: rgba(0, 0, 0, 0.6);
 $heading-color: rgba(0, 0, 0, 0.6);
