@@ -78,7 +78,7 @@ body {
 
 .content {
   // margin-bottom: 4rem;
-  padding-bottom:4rem;
+  padding-bottom:1rem;
 }
 
 
@@ -104,12 +104,18 @@ body {
 */
 
 .container {
-  max-width: 100%;
+  max-width: 56rem;
   padding-left:  4rem;
   padding-right: 4rem;
   margin-left:  auto;
   margin-right: auto;
 }
+
+// @media (min-width: 56em) {
+//   .container {
+//     max-width: 50rem;
+//   }
+// }
 
 /* Links */
 a, .text-title a {
