@@ -1,0 +1,30 @@
+---
+layout: narrative
+title:  "beginning"
+---
+
+## beginning
+
+At the moment, my attention has drifted to the background—distracted by encompassing mists, patterns of weather, echoes. I am often lost in the background. At the moment, my attention dwells on the experience of fatigue and the disposition of the soft and hidden and the language that creates the outline of such a disposition—language that gestures to the possibility of existing with such a disposition. At the moment, I am slowly moving out of the many shells of irony that I’ve built around my delicate spirit (I flinch).
+
+I begin (or attempt to begin) with waiting and finding. Ursula K. Le Guin reminds me:
+
+> Waiting, of course, is a very large part of writing.
+
+I begin in bed. Outside the window is a brick wall. The sun has yet to stretch a ribbon of warmth through the narrow hallway between. This won’t happen until three. And when it does, it will last for thirty minutes.
+
+I begin on the surface of the screen. Caught in the filament of that nearly opaque net, thrashing but incapacitated (indoctrinated?) and deeply in love. But maybe love is not the right word. Love belongs to some time outside of now. Things move too fast for love. The contrast is too high for love. You might think that love thrives in high contrast, claiming dominion over one end of the spectrum, but really it rests somewhere between, off a path into the damp dark. Everything comes back as radio static. There is unbearable noise, heaviness, even more. A moment of panic and the fear of great loss. The searing light from the screen turns the already limited 9am light into a deep pitch of black. Ged yawns and the panel of light becomes a blur in the foreground. He presses himself against my leg. A stretched paw in my direction. The left eye closes before the right eye…
+
+​Ecstatic experience generally only happens when I am watching my cat.[^11]
+
+I begin with something happening; something beginning and getting lost; distracted by a glowing, distracted by a word, the scent of a trail I am not supposed to be on. I arrive slowly, and in truth I do not arrive at all. I’m sorry… There is likely nothing juicy here, nothing sexy and electric, only a hidden fire in a little stone, something so old that we passed right by it. The reality of the stone does not seem to matter.
+
+Really, I’m sorry for all this.
+
+I begin with an apology: I arrive bearing no solution, no certain position to the problems at hand. I carry only tools of uncertainty, methods of weathering. My snake oils and ointments tumble out of my hands and crash on the floor. I bend to pick them up again, apologetic, repentant. I have set out with no plans and I can barely articulate the Vision.[^12] I have tried to go off,[^13] tried to go the dark way, the way of the gut—tried to follow the heart. This has proved difficult. I’ve submerged myself in worry.
+
+------
+
+[^11]: <img src="/Users/aidan/Desktop/practice/writing/notebook/_img/ged1b.png" alt="ged1b" style="zoom:25%;" />
+[^12]: “Embark on a garden with a Vision but never with a plan.”  —Ian Hamilton Finlay, *Selections*
+[^13]: “The proposition ‘off’ is a product of linguistic error, popular etymology and fuzzy logic. It developed from the proposition ‘of,’ signifying belonging as in ‘being a part of,’ with the addition of an extra ‘f,’ and emphatic marker of distancing … Sometimes ‘off’ is about the embarrassment of life caught unawares.” —Svetlana Boym, *The Off-Modern*.

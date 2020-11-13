@@ -1,0 +1,24 @@
+---
+layout: narrative
+title:  "orientation"
+---
+
+# orientation
+
+A gust of blackberry and plastic, ponderosa pine and aluminum, damp grass and lithium. I am moving along a narrow path between two cliffs of bushes. My heart is fidgeting darkly. I have no therapist but they would probably give me a drug for that. The sky above the dark green canyon is slowly turning red as the sun (obscured by the bushes) is moving toward the limit of the day. This maze is a terrible shelter for the night. I should hurry. I want to get home. The thorns look ready to sink themselves into me and the berries look ready to turn into dark wisps of soot. I have already ingested too much dust. It is clouding my heart (where I keep the memory of home).
+
+​I move further along the path. A thorn claims a sliver of land on my arm, evicting some blood. This place used to be a refuge. I pull a blackberry off a branch and eat it in order to remember sourly. The tang of glass within fiber optic cable fills my mouth and plumes into a bristling cloud of memory loss. Misting its way through my throat, I can sense its eagerness to mingle with the cloud of dust hovering around my heart. I almost run into the big bug. The big bug with a red gleam, hissing unkindnesses. I’ve been here before. Another song of unkindness. More dust is heaped into my mouth by the shoveling claws of the bug. Once again, I turn and crawl through a small tunnel in the bushes. More thorns and more landlords. More dust and no water.
+
+Suddenly, a red sensation. The cloud dissipates a little. I look ahead and see that the tunnel is ending. Red all over. The red sun flashes a jet of fire into my eyes. Suddenly, I am out of the tunnel; suddenly, a sick feeling in my stomach; suddenly, there it is.
+
+------
+
+I notice I am monologuing to myself, as I always seem to be—though it seems these words were meant for others...
+
+I come to this moment by way of the glass surface and the land of myth behind the glass. I come to this moment weary and waterlogged, restless and thirsty. The sprawling rivers of information that pour from the containers of the devices have carried me a long way from the dreams that once defined my time within the screen. I am there, somewhere in the froth of the waves. I attempt to steer away from the dogma of the Feed. I attempt to reassemble and understand the magic that has disappeared. There is much that I have forgotten in the great force and velocity of these rivers.
+
+I come to this moment in earnest, feeling around for a slower way of doing and seeing things. At times I feel sick with information and so I wonder about ‘information’ and ‘acceleration’ and ‘seamlessness’ and the limits of these things. I wonder about the side-effects of a world preoccupied with lucidity and hardness and data and speculation. And I wonder how I can place stones in the rushing stream(s) of all these things so there might be some space(s) to take a rest.
+
+I come to this moment by way of the desert and the clouded coast of the North American expanse. I am still looking for a parking place. I fear I may never find one. At one point, I traversed a long distance on my bicycle, where I didn’t do much except pay attention to the strength of the wind and the frequency of corn fields and the precarity of the highway shoulder. At another, I was carried along a winding river, deep in a canyon, fearing what is called “the hole” in the rapids. I never encountered the hole and instead found the eddy, nestled along the banks of the river or tucked against the western face of a stone in the middle of the flow, silently twisting into itself.
+
+As you might expect, I’ve since encountered the hole and, with the swift violence of reality (and eager submission on my part), my heart was wrenched away and cast into the breezeless mouth.
