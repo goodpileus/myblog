@@ -3,7 +3,7 @@ layout: narrative
 title:  "beginning"
 ---
 
-## beginning
+# beginning
 
 At the moment, my attention has drifted to the background—distracted by encompassing mists, patterns of weather, echoes. I am often lost in the background. At the moment, my attention dwells on the experience of fatigue and the disposition of the soft and hidden and the language that creates the outline of such a disposition—language that gestures to the possibility of existing with such a disposition. At the moment, I am slowly moving out of the many shells of irony that I’ve built around my delicate spirit (I flinch).
 
