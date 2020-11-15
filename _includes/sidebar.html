@@ -11,8 +11,7 @@
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">home</a>
 
     {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
+      The code below dynamically generates a sidebar nav of pages with `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
     {% assign pages_list = site.pages | sort:"url" %}
@@ -24,7 +23,8 @@
       {% endif %}
     {% endfor %}
 
-    {% for item in site.texts %}
+    {% assign texts = site.texts | sort:"order" %}
+    {% for item in texts %}
         <a class="sidebar-nav-item{% if page.url == item.url %} active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">
           {{ item.title }}
         </a>
@@ -48,8 +48,8 @@
     <a class="sidebar-nav-item" href="#">???</a>
     <a class="sidebar-nav-item" href="#">???</a>
   </nav>
-  
+
   <div class="energy-capsule">
-    <img src="{{ site.baseurl }}/assets/apple.gif" alt="energy source">
+    <img src="{{ site.baseurl }}/assets/apple.gif" alt="energy source" title="energy source">
   </div>
 </div>

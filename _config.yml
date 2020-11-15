@@ -13,9 +13,6 @@ author:
   url:               https://aidanquinlan.net
   email:             aidankquinlan@gmail.com
 
-# Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
-
 # Permalinks
 permalink: pretty
 permalink: /:title/

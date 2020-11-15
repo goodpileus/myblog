@@ -334,8 +334,8 @@ tbody tr:nth-child(odd) th {
   position:relative;
   display:flex;
   flex-direction: column;
-  -webkit-transition: all .2s;
-          transition: all .2s;
+  // -webkit-transition: all .2s;
+  //         transition: all .2s;
 }
 
 @media (min-width: 30em) {
@@ -470,7 +470,7 @@ div.poem,
 .poem,
 div.narrative,
 .narrative {
-  margin-bottom: 5rem;
+  // margin-bottom: 5rem;
 }
 
 div.toc {
@@ -490,8 +490,8 @@ div.toc {
 ul.poetry {
   list-style: none;
   list-style-type: none;
-  padding-left: 1rem;
-  text-indent: -1rem;
+  padding-left: 0;
+  text-indent: 20px;
 }
 
 
