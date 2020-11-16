@@ -16,3 +16,22 @@ $background-color: #a6a55a;
 
 @import "ed";
 @import "syntax";
+
+
+.screensaver {
+  opacity:0;
+  position: fixed;
+  width:100%;
+  height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+  background:#555530;
+  pointer-events: none;
+  transition: opacity 3s ease, background 5s ease;
+}
+
+.saving {
+  opacity:.9;
+}

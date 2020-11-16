@@ -6,7 +6,7 @@ order: 0
 
 - > *If I knew, I would speak.*
 *I know nothing. I guess much.*
-- > Ged
+- > ( Ged )
 
 <style>
   p {

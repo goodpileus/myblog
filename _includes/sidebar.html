@@ -6,9 +6,9 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+  <a class="sidebar-nav-item home-nav {% if page.url == site.baseurl %} active {% endif %}" href="{{ site.baseurl }}/">home</a>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with `layout: page` in the front-matter. See readme for usage.
@@ -29,25 +29,20 @@
           {{ item.title }}
         </a>
     {% endfor %}
-
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
-    <a class="sidebar-nav-item" href="#">???</a>
   </nav>
+
+  <div class="page-nav">
+    {% if page.previous.url %}
+      <a id="prev-btn" class="prev page-btn" href="{{ site.baseurl }}{{page.previous.url}}"><-</a>
+      {% else %}
+      <a id="prev-btn" class="prev page-btn" href="{{ site.baseurl }}{% link _texts/99-around.md %}">return</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a id="next-btn" class="next page-btn" href="{{ site.baseurl }}{{page.next.url}}">-></a>
+      {% else %}
+      <a id="next-btn" class="next page-btn" href="{{ site.baseurl }}{% link _texts/0-with.md %}">return</a>
+    {% endif %}
+  </div>
 
   <div class="energy-capsule">
     <img src="{{ site.baseurl }}/assets/apple.gif" alt="energy source" title="energy source">
