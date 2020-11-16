@@ -437,11 +437,12 @@ a.sidebar-nav-item:focus {
 .page-nav {
   width:100%;
   display: flex;
+  flex-shrink: 0;
 }
 
 .page-btn {
   width:100%;
-  padding:.5rem;
+  padding:.4rem;
   text-align: center;
   border-top:1px solid $border-color;
 }
