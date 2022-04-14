@@ -84,7 +84,7 @@ switch (e.which) {
 });
 
 var elem = document.getElementById("timer"), timeout, startTimer = function timer() {
-    timeout = setTimeout(timer, 10000)
+    timeout = setTimeout(timer, 30000)
     $('.screensaver').addClass( "saving" );
 }
 function resetTimer() {
